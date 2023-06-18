@@ -1,2 +1,1 @@
-# odin-recipes
-my recipes
+This is a repository for a recipe project. It contains a collection of delicious recipes for various dishes. Whether you're a seasoned chef or a beginner in the kitchen, this project aims to provide you with a diverse range of recipes to explore and enjoy.
